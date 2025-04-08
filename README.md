@@ -24,7 +24,7 @@ pip install mysql-connector  ##This is for Cloud version
 ```
 
 or 
-´
+
 ```bash
 pip install -r requirements.txt #using pip
 ```
@@ -58,9 +58,10 @@ Online_Game is the local version and it has only 100 images from each channel. T
 
 
 
-3. Game Demo
+## 3. Game pages
 
-![Start page](Screenshots/First_page.png)
+![Start](Screenshots/First_page.png)
 
+![Practice](Screenshots/Practicing.png)
 
-
+![Game](Screenshots/Game_start.png)
